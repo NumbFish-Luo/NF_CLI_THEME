@@ -4,7 +4,7 @@
 ## Getting Started
 
 ```
-./install.sh
+source install.sh
 ```
 
 ## Screenshots
